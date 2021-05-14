@@ -1,0 +1,24 @@
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\bin\Debug\Alarm_7.exe
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\bin\Debug\Alarm_7.pdb
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\obj\Debug\Alarm_7.Form1.resources
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\obj\Debug\Alarm_7.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\obj\Debug\Alarm_7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\obj\Debug\Alarm_7.exe
+C:\Documents and Settings\Администратор\Local Settings\Application Data\Temporary Projects\Alarm_7\obj\Debug\Alarm_7.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\bin\Debug\Alarm_7.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\bin\Debug\Alarm_7.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.Form1.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\bin\Debug\Alarm_7.exe.manifest
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\bin\Debug\Alarm_7.application
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.exe.manifest
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\obj\Debug\Alarm_7.application
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Alarm_7\Alarm_7\bin\Debug\Alarm_7.exe.config
+C:\github\Alarm_7\Alarm_7\bin\Debug\Alarm_7.exe.config
+C:\github\Alarm_7\Alarm_7\obj\Debug\Alarm_7.exe
+C:\github\Alarm_7\Alarm_7\obj\Debug\Alarm_7.pdb
